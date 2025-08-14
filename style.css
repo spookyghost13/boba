@@ -1,0 +1,22 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: 3px solid;
+}
+body {
+    text-align: center;
+    font-family: 'arial';
+    background: lightgreen;
+    color: black;
+}
+
+h1 {
+    font-family: 'Verdana';
+}
+
+h2 {
+    font-family: 'Verdana';
+    color: blue;
+    
+}
