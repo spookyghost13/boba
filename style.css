@@ -21,8 +21,8 @@ h2 {
     
 }
 footer {
-  text-align: left;
-  padding: 6px;
+  text-align: center;
+  padding-top: 6,6;
   background-color: rgb(73, 227, 241);
   color: rgb(0, 0, 0);
 }
