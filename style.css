@@ -34,12 +34,12 @@ topnav {
   background-color: rgb(73, 227, 241);
   color: rgb(0, 0, 0);
 }
-.button {
+button {
 display: inline-block;
 padding: 5px; 10px;
 color: yellow;
 border-radius: 6px;
 }
-.button-hover {
+button-hover {
 background-color: bisque;
 }
