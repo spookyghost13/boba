@@ -41,7 +41,7 @@ footer {
   color: rgb(0, 0, 0);
   font-family: 'Bitcount Grid Single', sans-serif;
 }
-topnav {
+.topnav {
   text-align: center;
   padding: 10px;
   background-color: rgb(73, 227, 241);
