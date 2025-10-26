@@ -48,5 +48,6 @@ topnav {
 
 .button:hover {
   background-color: lightblue;
+  transform: scale(2); 
   cursor: pointer;
 }
