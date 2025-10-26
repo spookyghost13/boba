@@ -11,7 +11,18 @@ body {
     color: black;
     flex-direction: column;
 }
-
+p.one {
+color: coral;
+border:rgb(83, 142, 161)
+}
+p.two {
+color: rgb(46, 36, 228);
+border:rgb(52, 98, 19)
+}
+p.three {
+color: rgb(234, 43, 255);
+border:rgb(224, 67, 67)
+}
 h1 {
     font-family: 'Verdana';
 }
