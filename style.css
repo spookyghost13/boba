@@ -47,7 +47,7 @@ topnav {
 }
 
 .button:hover {
-  background-color: lightblue;
+  background-color: rgb(83, 142, 161);
   transform: scale(2); 
   cursor: pointer;
 }
