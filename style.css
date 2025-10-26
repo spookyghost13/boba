@@ -37,7 +37,7 @@ topnav {
   color: rgb(0, 0, 0);
 }
 
-.btn {
+.button {
   display: inline-block;
   padding: 10px 20px;
   background-color: #007BFF;
@@ -46,7 +46,7 @@ topnav {
   border-radius: 5px;
 }
 
-.btn:hover {
+.button:hover {
   background-color: lightblue;
   transform: scale(2); 
   cursor: pointer;
